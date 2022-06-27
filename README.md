@@ -13,9 +13,11 @@ git clone https://github.com/carlowisse/Futuristt.git
 
 ### HTML:
 ![ScreenShot](./images/html.png)
+<br><br>
+![ScreenShot](./images/html2.png)
 
 ### CSS:
-![ScreenShot](./images/css.svg)
+![ScreenShot](./images/css.png)
 
 ### JS:
 ![ScreenShot](./images/js.png)

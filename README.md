@@ -21,6 +21,6 @@ git clone https://github.com/carlowisse/Futuristt.git
 ![ScreenShot](./images/js.svg)
 
 ## Contact
-Built with `&hearts;` by [Carlo Wisse](https://carlowisse.com)
+Built with by [Carlo Wisse](https://carlowisse.com)
 
 [License](https://github.com/carlowisse/Futuristt/blob/master/LICENSE.txt)

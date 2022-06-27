@@ -6,6 +6,16 @@
     "engines": {
         "vscode": "^1.68.0"
     },
+    "icon": "icon/futuristt.png",
+    "author": {
+        "name": "Carlo Wisse",
+        "email": "contact@carlowisse.com",
+        "url": "https://carlowisse.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carlowisse/futuristt-theme"
+    },
     "categories": [
         "Themes"
     ],

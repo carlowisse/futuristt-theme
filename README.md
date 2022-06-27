@@ -23,6 +23,6 @@ git clone https://github.com/carlowisse/Futuristt.git
 ![ScreenShot](./images/js.png)
 
 ## Contact
-Built with by [Carlo Wisse](https://carlowisse.com)
+Built by [Carlo Wisse](https://carlowisse.com)
 
-[License](https://github.com/carlowisse/Futuristt/blob/master/LICENSE.txt)
+[LICENSE](https://github.com/carlowisse/Futuristt/blob/master/LICENSE.txt)

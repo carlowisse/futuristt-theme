@@ -1,12 +1,13 @@
 {
-    "name": "carlowisse-futuristt",
+    "name": "futuristt",
+    "publisher": "carlowisse",
     "displayName": "Futuristt",
     "description": "A very dark theme with a cyberpunk inspired syntax highlighting system, matrix style terminal and minimal user interface design principals.",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
-    "icon": "icon/futuristt.png",
+    "icon": "icon/icon.png",
     "author": {
         "name": "Carlo Wisse",
         "email": "contact@carlowisse.com",

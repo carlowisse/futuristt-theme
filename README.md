@@ -12,13 +12,13 @@ git clone https://github.com/carlowisse/Futuristt.git
 ## Screenshots
 
 ### HTML:
-![ScreenShot](./images/html.svg)
+![ScreenShot](./images/html.png)
 
 ### CSS:
 ![ScreenShot](./images/css.svg)
 
 ### JS:
-![ScreenShot](./images/js.svg)
+![ScreenShot](./images/js.png)
 
 ## Contact
 Built with by [Carlo Wisse](https://carlowisse.com)

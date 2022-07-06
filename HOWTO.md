@@ -49,4 +49,6 @@ npm install vsce -g
 vsce login (publisher name)
 vsce package
 vsce publish
+
+vsce publish minor
 ```

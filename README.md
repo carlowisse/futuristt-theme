@@ -12,6 +12,9 @@ git clone https://github.com/carlowisse/futuristt-theme
 
 ## Screenshots
 
+### User Interface:
+![ScreenShot](./images/ui.png)
+
 ### HTML:
 ![ScreenShot](./images/html.png)
 <br><br>

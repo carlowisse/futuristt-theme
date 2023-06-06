@@ -12,8 +12,11 @@
   "editor.glyphMargin": true,
   "editor.guides.bracketPairs": "active",
   "editor.guides.bracketPairsHorizontal": true,
+  "editor.guides.highlightActiveBracketPair": true,
   "editor.guides.highlightActiveIndentation": "always",
+  "editor.guides.indentation": true,
   "editor.hover.enabled": true,
+  "editor.inlayHints.enabled": "off",
   "editor.inlineSuggest.enabled": true,
   "editor.lightbulb.enabled": false,
   "editor.lineHeight": 0,
@@ -54,8 +57,5 @@
   "workbench.editor.untitled.hint": "hidden",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.settings.editor": "json",
-  "workbench.startupEditor": "newUntitledFile",
-  "editor.inlayHints.enabled": "off",
-  "editor.guides.indentation": true,
-  "editor.guides.highlightActiveBracketPair": true
+  "workbench.startupEditor": "newUntitledFile"
 }

@@ -25,7 +25,7 @@ yo code
 1. Select a base theme to be used as a starting point
 
 ```
-cd {theme-name}
+cd THEME_NAME
 code .
 ```
 
@@ -45,6 +45,7 @@ npm install vsce -g
 * Create Personal Access Token
   * Use "All Accessible Organizations"
 * [Create Publisher](https://marketplace.visualstudio.com/manage/createpublisher)
+
 ```
 vsce login (publisher name)
 vsce package

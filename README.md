@@ -11,7 +11,7 @@ git clone https://github.com/carlowisse/futuristt-theme
 ```
 
 ## Supplemental Settings
-> there are some supplemental workspace settings that can be used to further enhance the theme. The are available in the [workspace-settings.json](./workspace-settings.json) file.
+> there are some supplemental workspace settings that can be used to further enhance the theme. They are available in the [workspace-settings.json](./workspace-settings.json) file.
 
 ## Screenshots
 

@@ -1,4 +1,4 @@
-## Version 1.5.0
+## Version 1.6.0
 * Fixed minimap colors
 * Fixed readme typos
 * Added more supplemental workspace settings

@@ -3,7 +3,7 @@
   "publisher": "carlowisse",
   "displayName": "Futuristt",
   "description": "A very dark theme with a cyberpunk inspired syntax highlighting system, matrix style terminal and minimal user interface design principals.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "engines": {
     "vscode": "^1.68.0"
   },

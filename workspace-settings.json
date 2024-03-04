@@ -51,11 +51,15 @@
   "update.showReleaseNotes": true,
   "window.autoDetectHighContrast": false,
   "window.restoreWindows": "none",
-  "window.title": "${folderName}",
+  "window.title": "${activeRepositoryName}:${activeRepositoryBranchName} ${separator} [${activeEditorMedium}]",
   "window.titleBarStyle": "custom",
+  "window.zoomPerWindow": true,
   "workbench.colorTheme": "Futuristt",
+  "workbench.editor.dragToOpenWindow": true,
   "workbench.editor.untitled.hint": "hidden",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.settings.editor": "json",
-  "workbench.startupEditor": "newUntitledFile"
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.tree.enableStickyScroll": true,
+  "workbench.tree.stickyScrollMaxItemCount": 7
 }

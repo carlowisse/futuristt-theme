@@ -1,3 +1,8 @@
+## Version 1.4.0
+* Fixed minimap colors
+* Fixed readme typos
+* Added more supplemental workspace settings
+
 ## Version 1.3.0
 * Added statusBar colors
 * Organised JSON file
